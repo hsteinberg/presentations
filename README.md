@@ -21,6 +21,7 @@ CONCLUSIONS: The Shiny package in R is an approachable tool for epidemiologists 
 ___
 
 **[Factors Associated with Inappropriate Administration of Rabies Post-Exposure Prophylaxis in Suburban Cook County, Illinois, 2015-2018](https://cste.confex.com/cste/2019/meetingapp.cgi/Paper/10677)**
+*Council of State and Territorial Epidemiologists Annual Conference, June 3, 2019*
 
 BACKGROUND: Rabies is nearly 100% fatal in humans but is preventable when post-exposure prophylaxis (PEP) is given promptly and correctly. The Advisory Committee on Immunization Practices (ACIP) publishes guidelines that detail when animal exposure circumstances warrant PEP administration. Failure to adhere to these guidelines results in unnecessary cost, inconvenience, and minor medical risks to the patient when PEP is given but not indicated. Potential human rabies exposures, including the initiation of PEP, are reportable in Illinois. Since 2015, the Cook County Department of Public Health (CCDPH) has engaged in continuous quality improvement initiatives to increase reporting and improve clinical quality measures related to rabies exposures. In this study, we assessed factors associated with inappropriate administration of PEP.
 
