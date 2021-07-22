@@ -1,5 +1,19 @@
 # Presentations
 
+
+**Traffic-Related Emergency Department Visits As Measure of Social Distancing during the COVID-19 Pandemic in Cook County, IL**
+*Council of State and Territorial Epidemiologists Annual Conference, June 15, 2021, Virtual*
+
+BACKGROUND: Social distancing is an important prevention measure against community spread of SARS-CoV-2. Companies such as Apple and Google have released mobility data to help measure local social distancing trends. However, counties are the smallest geographic unit available and the companies are not committed to providing data in perpetuity. State and local jurisdictions may benefit from more granular, reliable measures of social distancing. We observed an inverse relationship between traffic-related emergency department (ED) visits and visits for COVID-like illness (CLI), suggesting it may be a good indicator of people staying home during COVID-19 surges in our area. 
+
+METHODS: ED visits for CLI and traffic-related injuries were extracted from NSSP ESSENCE using the ‘CLI CC with CLI DD and Coronavirus DD v1’ and ‘All Traffic Related v2’ queries. Mobility data from Apple and Google were utilized for validation of traffic-related ED visits as a measure of social distancing. All data were analyzed for MMWR weeks 10-50. 
+
+RESULTS: The percent of ED visits for CLI increased 235% from 2019 to 2020, while the percent of ED visits for traffic-related injuries decreased 11% in our jurisdiction. In 2020, traffic and CLI ED visits by week were inversely correlated (Pearson’s r, -0.84; 95% CI, -0.71:-0.91). Our jurisdiction is comprised of four public health districts. In our district with the fewest COVID-19 cases and hospitalizations and highest median income, the percent of ED visits for traffic-related injuries decreased 23% from 2019-2020. In our district with the most COVID-19 hospitalizations and the lowest median income, the percent of ED visits for traffic-related injuries increased 2% during this time period. Weekly percent of ED visits for traffic-related injuries was significantly correlated with Apple maps usage for driving directions in our county (Pearson’s r, 0.92; 95% CI, 0.85:0.96), and was negatively correlated with Google data approximating visits to residential locations (Pearson’s r, -0.67; 95% CI, -0.45:-0.81). 
+
+CONCLUSIONS: Syndromic surveillance data for traffic-related ED visits could be used as a proxy for social distancing during the COVID-19 pandemic. It is significantly correlated with data approximating the amount people are driving in our county, and inversely correlated with data approximating the number of people staying at residential locations and with CLI rates in our jurisdiction. Furthermore, this data can be used at a more granular level than publicly available mobility data and revealed potential disparities in the ability to stay home during a pandemic for those hardest-hit in our jurisdiction.
+
+___
+
 **Communicating public health data with Shiny: West Nile virus risk, school vaccination rates, health equity, and more**
 *RStudio Conference, January 28, 2020*
 
@@ -31,16 +45,5 @@ RESULTS: During our study period, 279 (54%) of 519 reported individuals received
 
 CONCLUSIONS: Consultation with a health department was the single most protective factor against inappropriate administration of PEP in Suburban Cook County. As the majority of patients were given PEP without consulting a health department, this is an area where substantial improvement can be made to reduce the burden of unnecessary PEP. Healthcare providers should be especially mindful when considering PEP for domestic animal exposures, as the likelihood of inappropriate PEP administration was significantly higher for dog and cat exposures than for bats or raccoons. The results from this analysis will allow CCDPH to implement more informed education efforts with local hospitals.
 
-___
 
-**Traffic-Related Emergency Department Visits As Measure of Social Distancing during the COVID-19 Pandemic in Cook County, IL**
-*Council of State and Territorial Epidemiologists Annual Conference, June 15, 2021, Virtual*
-
-BACKGROUND: Social distancing is an important prevention measure against community spread of SARS-CoV-2. Companies such as Apple and Google have released mobility data to help measure local social distancing trends. However, counties are the smallest geographic unit available and the companies are not committed to providing data in perpetuity. State and local jurisdictions may benefit from more granular, reliable measures of social distancing. We observed an inverse relationship between traffic-related emergency department (ED) visits and visits for COVID-like illness (CLI), suggesting it may be a good indicator of people staying home during COVID-19 surges in our area. 
-
-METHODS: ED visits for CLI and traffic-related injuries were extracted from NSSP ESSENCE using the ‘CLI CC with CLI DD and Coronavirus DD v1’ and ‘All Traffic Related v2’ queries. Mobility data from Apple and Google were utilized for validation of traffic-related ED visits as a measure of social distancing. All data were analyzed for MMWR weeks 10-50. 
-
-RESULTS: The percent of ED visits for CLI increased 235% from 2019 to 2020, while the percent of ED visits for traffic-related injuries decreased 11% in our jurisdiction. In 2020, traffic and CLI ED visits by week were inversely correlated (Pearson’s r, -0.84; 95% CI, -0.71:-0.91). Our jurisdiction is comprised of four public health districts. In our district with the fewest COVID-19 cases and hospitalizations and highest median income, the percent of ED visits for traffic-related injuries decreased 23% from 2019-2020. In our district with the most COVID-19 hospitalizations and the lowest median income, the percent of ED visits for traffic-related injuries increased 2% during this time period. Weekly percent of ED visits for traffic-related injuries was significantly correlated with Apple maps usage for driving directions in our county (Pearson’s r, 0.92; 95% CI, 0.85:0.96), and was negatively correlated with Google data approximating visits to residential locations (Pearson’s r, -0.67; 95% CI, -0.45:-0.81). 
-
-CONCLUSIONS: Syndromic surveillance data for traffic-related ED visits could be used as a proxy for social distancing during the COVID-19 pandemic. It is significantly correlated with data approximating the amount people are driving in our county, and inversely correlated with data approximating the number of people staying at residential locations and with CLI rates in our jurisdiction. Furthermore, this data can be used at a more granular level than publicly available mobility data and revealed potential disparities in the ability to stay home during a pandemic for those hardest-hit in our jurisdiction.
 
